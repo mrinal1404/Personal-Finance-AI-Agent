@@ -243,20 +243,6 @@ pytest tests/ -v
 
 ---
 
-## 📊 Sample Data
-
-The `data/sample_transactions.json` file contains **89 realistic Indian transactions** across **Feb–Apr 2025** covering:
-
-- 🍔 Food delivery (Swiggy, Zomato, Zepto, BigBasket)
-- 🚗 Transport (Uber, Ola, Rapido, Metro)
-- 🛍️ Shopping (Amazon, Flipkart, Myntra, Lenskart)
-- 🎬 Entertainment (Netflix, Spotify, PVR, INOX)
-- 💡 Utilities (BESCOM, ACT Fibernet, Airtel)
-- 🏋️ Healthcare (Cult.fit, Apollo Pharmacy)
-- 📚 Education (Udemy, Coursera, Crossword)
-- 🏠 Rent (HSR Layout flat)
-- 💰 Insurance (LIC premiums)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -272,18 +258,5 @@ The `data/sample_transactions.json` file contains **89 realistic Indian transact
 
 ---
 
-## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
 
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request

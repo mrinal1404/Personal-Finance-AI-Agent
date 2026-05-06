@@ -1,0 +1,80 @@
+{
+  "categories": {
+    "Food & Dining": {
+      "keywords": ["swiggy", "zomato", "uber eats", "zepto", "blinkit", "bigbasket", "restaurant", "cafe", "food",
+                   "pizza", "burger", "sushi", "grocery", "mcdonald", "kfc", "domino", "dunzo", "instamart",
+                   "supermarket", "biryani", "brunch", "lunch", "dinner", "breakfast", "milk", "nandini",
+                   "barbeque", "mainland", "fatty bao"],
+      "color": "#FF6B6B",
+      "budget_percentage": 20
+    },
+    "Transportation": {
+      "keywords": ["uber", "ola", "metro", "fuel", "petrol", "diesel", "parking", "toll", "bus", "train",
+                   "rapido", "bmtc", "namma metro", "irctc", "airport", "cab", "taxi"],
+      "color": "#4ECDC4",
+      "budget_percentage": 8
+    },
+    "Shopping": {
+      "keywords": ["amazon", "flipkart", "myntra", "mall", "store", "shop", "fashion", "clothes", "shoes",
+                   "lenskart", "nykaa", "meesho", "ajio", "westside", "lifestyle", "h&m", "zara"],
+      "color": "#45B7D1",
+      "budget_percentage": 12
+    },
+    "Entertainment": {
+      "keywords": ["netflix", "spotify", "prime", "hotstar", "movie", "cinema", "theatre", "gaming",
+                   "pvr", "inox", "bookmyshow", "tata play", "zee5", "sony liv", "youtube"],
+      "color": "#F7DC6F",
+      "budget_percentage": 5
+    },
+    "Utilities": {
+      "keywords": ["electricity", "water", "gas", "internet", "wifi", "broadband", "phone", "mobile",
+                   "recharge", "bescom", "act fibernet", "airtel", "jio", "bsnl", "tata sky"],
+      "color": "#82E0AA",
+      "budget_percentage": 5
+    },
+    "Healthcare": {
+      "keywords": ["pharmacy", "hospital", "clinic", "doctor", "medicine", "health", "gym", "fitness",
+                   "apollo", "cult.fit", "practo", "docprime", "1mg", "medlife", "netmeds"],
+      "color": "#F0B27A",
+      "budget_percentage": 5
+    },
+    "Education": {
+      "keywords": ["course", "udemy", "coursera", "books", "stationery", "tuition", "school", "college",
+                   "crossword", "unacademy", "byju", "upgrad", "skillshare", "linkedin learning"],
+      "color": "#BB8FCE",
+      "budget_percentage": 5
+    },
+    "Personal Care": {
+      "keywords": ["salon", "spa", "haircut", "beauty", "cosmetics", "nykaa", "parlour", "grooming"],
+      "color": "#F1948A",
+      "budget_percentage": 3
+    },
+    "Travel": {
+      "keywords": ["hotel", "airbnb", "flight", "booking.com", "makemytrip", "goibibo", "irctc",
+                   "oyo", "holiday", "vacation", "resort"],
+      "color": "#85C1E9",
+      "budget_percentage": 5
+    },
+    "Finance": {
+      "keywords": ["emi", "loan", "insurance", "mutual fund", "sip", "investment", "lic", "hdfc",
+                   "icici", "premium", "policy", "tax", "fd", "ppf"],
+      "color": "#A9CCE3",
+      "budget_percentage": 15
+    },
+    "Rent": {
+      "keywords": ["rent", "housing", "apartment", "pg", "hostel", "flat", "lease"],
+      "color": "#A3E4D7",
+      "budget_percentage": 30
+    },
+    "Others": {
+      "keywords": [],
+      "color": "#BDC3C7",
+      "budget_percentage": 7
+    }
+  },
+  "savings_targets": {
+    "emergency_fund_months": 6,
+    "recommended_savings_percentage": 20,
+    "investment_percentage": 15
+  }
+}
